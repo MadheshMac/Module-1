@@ -14,9 +14,8 @@ To write a Python program to find the speed of a car based on the given distance
 6. End the program.
 
 **PROGRAM**
-**212223060265
-SMRITHI K
-**
+**212222040090
+E MADHESWARAN**
 
 dis=float(input())
 time=float(input())
