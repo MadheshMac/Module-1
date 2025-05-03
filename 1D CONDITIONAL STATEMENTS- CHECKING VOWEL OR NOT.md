@@ -15,8 +15,8 @@ To write a Python program to read a number and check whether it is divisible by 
 6. End the program.
 
 **PROGRAM**
-**212223060265
-SMRITHI K**
+**212222040090
+E MADHESWARAN**
 
 a=int(input())
 if(a%5==0 and a%9==0):
