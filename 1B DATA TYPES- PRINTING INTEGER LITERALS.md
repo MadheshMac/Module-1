@@ -13,9 +13,8 @@ To write a Python program to read and print two float values.
 
 **PROGRAM**
 
-**212223060265
-
-SMRITHI K**
+**212222040090
+E MADHESWARAN**
 
 float_1=float(input())
 float_2=float(input())
