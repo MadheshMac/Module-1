@@ -12,9 +12,8 @@ To write a Python program to find the minimum between three integer numbers usin
 5. End the program.
 
 **PROGRAM**
-**212223060265
-SMRITHI K**
-
+**212222040090
+E MADHESWARAN**
 a=float(input())
 b=float(input())
 min=a if a<b else b
